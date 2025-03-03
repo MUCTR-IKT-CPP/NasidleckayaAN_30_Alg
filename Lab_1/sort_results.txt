@@ -1,0 +1,88 @@
+Array Size: 1000
+Average Time: 0.00490942s
+Best Time: 0.0042464s
+Worst Time: 0.0063735s
+Average Passages: 999
+Best Passages: 999
+Worst Passages: 999
+Average Swaps: 992.9
+Best Swaps: 987
+Worst Swaps: 997
+
+Array Size: 2000
+Average Time: 0.0173856s
+Best Time: 0.0167658s
+Worst Time: 0.01996s
+Average Passages: 1999
+Best Passages: 1999
+Worst Passages: 1999
+Average Swaps: 1991.15
+Best Swaps: 1983
+Worst Swaps: 1996
+
+Array Size: 4000
+Average Time: 0.0694152s
+Best Time: 0.0676095s
+Worst Time: 0.0723873s
+Average Passages: 3999
+Best Passages: 3999
+Worst Passages: 3999
+Average Swaps: 3991.5
+Best Swaps: 3986
+Worst Swaps: 3997
+
+Array Size: 8000
+Average Time: 0.280793s
+Best Time: 0.267771s
+Worst Time: 0.298319s
+Average Passages: 7999
+Best Passages: 7999
+Worst Passages: 7999
+Average Swaps: 7990.9
+Best Swaps: 7986
+Worst Swaps: 7996
+
+Array Size: 16000
+Average Time: 1.09578s
+Best Time: 1.07952s
+Worst Time: 1.13013s
+Average Passages: 15999
+Best Passages: 15999
+Worst Passages: 15999
+Average Swaps: 15989.4
+Best Swaps: 15980
+Worst Swaps: 15996
+
+Array Size: 32000
+Average Time: 4.35717s
+Best Time: 4.28976s
+Worst Time: 4.41828s
+Average Passages: 31999
+Best Passages: 31999
+Worst Passages: 31999
+Average Swaps: 31989.2
+Best Swaps: 31984
+Worst Swaps: 31996
+
+Array Size: 64000
+Average Time: 17.4387s
+Best Time: 17.1546s
+Worst Time: 17.627s
+Average Passages: 63999
+Best Passages: 63999
+Worst Passages: 63999
+Average Swaps: 63988.9
+Best Swaps: 63982
+Worst Swaps: 63996
+
+Array Size: 128000
+Average Time: 82.3891s
+Best Time: 71.0491s
+Worst Time: 87.1732s
+Average Passages: 127999
+Best Passages: 127999
+Worst Passages: 127999
+Average Swaps: 127987
+Best Swaps: 127983
+Worst Swaps: 127994
+
